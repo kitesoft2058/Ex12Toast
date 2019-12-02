@@ -13,7 +13,7 @@ Toast 객체 생성 및 보이기와 위치설정 알아보기
 
 # 실행모습
 <div>
-  <h4>1.기본 Toast,    2.Toast 위치지정,    3.Custom View Toast</h4>  
+  <h4>[1.기본 Toast] | [2.Toast 위치지정] | [3.Custom View Toast]</h4>  
   <img src="device-2019-12-02-150730.png" width="19%"/>
   <img src="device-2019-12-02-150829.png" width="19%"/>
   <img src="device-2019-12-02-150846.png" width="19%"/>
